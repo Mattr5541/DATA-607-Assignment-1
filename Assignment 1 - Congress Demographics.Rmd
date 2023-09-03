@@ -9,8 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-library(tibble)
-library(knitr)
 library(tidyverse)
 library(ggplot2)
 ```
